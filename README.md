@@ -1,2 +1,5 @@
 # AySO-Parcial1-FrancoRomero
-DIV-316
+Nombre: Franco
+Apellido: Romero
+Legajo: 117986
+División: 316
